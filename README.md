@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-
+![](https://komarev.com/ghpvc/?username=dil2743&label=PROFILE+VIEWS)
 <!--
 **aaryapatel007/aaryapatel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -12,7 +12,6 @@ You can reach me on [Linkedin](https://www.linkedin.com/in/dilshad-khan/).
 
 - 🔭 I’m currently working on `Localisation problem`
 - 🌱 I’m currently learning `ROS`
-
 
 Thanks for stopping by!
 
