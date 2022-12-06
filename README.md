@@ -4,7 +4,7 @@
 <!--
 **aaryapatel007/aaryapatel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Dilshad, a Embedded Developer * at Dosepack! I'm currently working on applying automation in various healthcare domains. I'm open for research collaborations in the field of Robotics and Embedded developmant.
+I'm Dilshad, a Embedded Developer * at Bosch! I'm currently working on applying automation in various healthcare domains. I'm open for research collaborations in the field of Robotics and Embedded developmant.
 I live in Ahmedabad Gujrat and love building robots which can benefit the humankind.
 You can reach me on [Linkedin](https://www.linkedin.com/in/dilshad-khan/). 
 
